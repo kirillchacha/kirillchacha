@@ -41,7 +41,7 @@ I will be glad to have a good response.<br> Contact yet!
 ### My contacts:
 
 [Mail: kirillchacha2000@gmail.com](mailto:kirillchacha2000@gmail.com)<br>
-[linkedin](www.linkedin.com/in/kirill-chacharskyi-3a658225a)
+[linkedin](https://linkedin.com/in/kirill-chacharskyi-3a658225a/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirillchacha&theme=blueberry&show_icons=true&hide_border=true&count_private=true, "Stats")
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillchacha&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
