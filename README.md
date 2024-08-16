@@ -4,6 +4,10 @@
 
 ___
 
+
+
+___
+
 1. Proficient in HTML, CSS (SCSS), basic JS, OpenCart, WordPress.
 2. Experienced in creating test documents.
 3. Advanced computer skills with Windows.
