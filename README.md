@@ -1,41 +1,14 @@
 # Hi there, I'm Kyrylo
 
-👋Are you in need of a highly skilled web developer? Whether it's for large-scale projects or simple tasks? Congratulations, you've found me!
+Web developer building responsive, well-structured websites - from Figma design to finished, working site. Landing pages, multi-page business sites, e-commerce, and portfolios.
 
-___
+**Tech Stack:** HTML · CSS (SCSS) · JavaScript · OpenCart · WordPress
 
-
-
-___
-
-1. Proficient in HTML, CSS (SCSS), basic JS, OpenCart, WordPress.
-2. Experienced in creating test documents.
-3. Advanced computer skills with Windows.
-4. Experienced in setting up website advertising.
-
-___
+**Tools:** Google Chrome · Adobe Photoshop · Visual Studio Code · Git · Microsoft Office · Pixso · Figma
 
 I will do everything possible and utilize all my skills to ensure you are satisfied with my work.
 
-___
-
-## **💻My Tools:**
-+ 🔌 Google Chrome
-+ 🔌 Adobe Photoshop
-+ 🔌 Visual Studio Code
-+ 🔌 Git
-+ 🔌 Microsoft office
-+ 🔌 Pixso
-+ 🔌 Figma
-+ 🔌 OpenCart
-+ 🔌 WordPress
-
-___
-
-We eagerly await the opportunity to assist you in bringing your wonderful projects to life.<br>
-Sincerely, Kyrylo Chacharskyi🤝
-##### **P.S. My aspirations: I would like to improve my skills and achieve success😉.**
-
+I look forward to assist you in bringing your wonderful projects to life.
 ___
 
 ### Thank you for your order!
@@ -51,4 +24,10 @@ I will be glad to have a good response.<br> Contact yet!
 ![Top Languages](assets/top-langs.svg)
 ![GitHub Streak](assets/streak.svg)
 
+See more projects on my **[portfolio](https://kirillchacha.github.io/portfolio/)**.
 
+## Currently
+
+Taking on more ambitious projects.
+
+Sincerely, Kyrylo Chacharskyi🤝
